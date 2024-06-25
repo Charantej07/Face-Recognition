@@ -1,0 +1,10 @@
+application_data/
+data/
+Facial Recognition.ipynb
+
+training_checkpoints/
+.ipynb_checkpoints/
+
+siamesemodel.h5
+
+lfw.tgz
